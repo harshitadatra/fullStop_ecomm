@@ -1,0 +1,30 @@
+@import '/pages/product_list_page/product.css';
+.wishlist-container
+{
+    display: flex;
+   
+    
+}
+.wishlist-heading
+{
+    margin-left:0.9rem;
+}
+.fa-xmark
+{ 
+    position: relative;
+    bottom: 10rem;
+    right:2rem;
+    background-color: white;
+
+    width: 1.2rem;
+    height: 1.2rem;
+    text-align: center;
+   
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
